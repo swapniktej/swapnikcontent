@@ -1,0 +1,8 @@
+string
+string buffers
+string builders
+string tokenisers
+
+accept first name and last name of user and generate email.id is constructed from first 4 char of fname . last 4 char in 
+lname @ capgemini.com .  id can hold max 14 char. combine fname and lname space in between , so display first 14 char
+on id card, if it isless than 14, fill with **
